@@ -8,6 +8,7 @@ This application cuts out images in four directions from a 360-degree video.
 特徴は以下の通りです。
 - 切り出す際の水平視野角を設定可能
 - 切り出すフレームレートを設定可能
+
 注意事項は以下の通りです
 - 対応している動画は現状mp4のみ
 - 最大解像度は5760×2880
