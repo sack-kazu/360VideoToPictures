@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/360VideoToPictures.unity
+    guid: 8f72bcf4a3501de40a50e8e7dd970098
   m_configObjects: {}
