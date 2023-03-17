@@ -27,6 +27,11 @@ This application cuts out images in four directions from a 360-degree video.
 
 関連事項を[こちらの記事](https://qiita.com/Kazu_Sack/items/d3e725f60bd1fc360f4e)で書いています。実装内容は記事からアップデートしています。
 
+# Unityでプロジェクトを開く方へ
+- Unity 2021.3.4f1
+- BRP
+- TMPはignoreしているのでご自身でインポートしてください
+
 # Lisence
 This project is licensed under the MIT License, see the LICENSE.txt file for details.
 
