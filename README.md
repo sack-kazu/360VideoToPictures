@@ -14,11 +14,13 @@ This application cuts out images in four directions from a 360-degree video.
 - 最大解像度は5760×2880
 
 # 使い方
-1. 画像を保存する場所を選ぶ
-2. 対象とする動画を選ぶ
-3. カメラの水平視野角を指定する
-4. 切り出すフレームレートを指定する
-5. Startボタンを押す
+1. [ここ](https://github.com/sack-kazu/360VideoToPictures/releases)からzipファイルをダウンロードする。
+2. 解凍して中の360VideoToPictures.exeを実行する。
+3. 画像を保存する場所を選ぶ
+4. 対象とする動画を選ぶ
+5. カメラの水平視野角を指定する
+6. 切り出すフレームレートを指定する
+7. Startボタンを押す
 ![image](https://user-images.githubusercontent.com/52432227/225943348-062dffca-6830-4834-9007-a8069f4fd3ac.png)
 
 # Tips
